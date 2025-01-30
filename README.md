@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi 👋 My name is Alexandra Koroleva
 
+### I am a frontend developer 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <!--
 **LittleCuteSandra/LittleCuteSandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

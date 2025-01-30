@@ -1,6 +1,6 @@
-<h2>Hi 👋 My name is Alexandra Koroleva</h2>
+## Hi 👋 My name is Alexandra Koroleva
 
-<h3>I am a frontend developer</h3><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ2dXl1b2cyMTFtcnJxOTd2dHk1bXd1bnB1bXl1MHZuZnZjNDdteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="100"/>
+### I am a frontend developer <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ2dXl1b2cyMTFtcnJxOTd2dHk1bXd1bnB1bXl1MHZuZnZjNDdteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"/>
 
 
 - 🔭 I’m currently working on ...

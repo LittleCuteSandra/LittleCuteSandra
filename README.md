@@ -7,7 +7,7 @@
 - 🐣 I’m a graduate of the Hexlet programming school
 - ✨ I’m ready for continuous learning and development, strive to gain practical experience in real projects, and I’m ready to work in a team.
 - 📚 The books I've read:
-- - «Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих» Адитья Бхаргава
+  -- «Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих» Адитья Бхаргава
 - ✉ How to contact me: [telegram](https://t.me/ssshur_a) and sasha.sasha.koroleva@mail.ru
 
 ### Skills
